@@ -28,7 +28,6 @@ function ProductCard(product) {
         setDetails(detailsList);
         setUrl(imageURL);
         setToggled(!toggled);
-        console.log(get)
     }
 
 
